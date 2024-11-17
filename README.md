@@ -4,11 +4,10 @@
 ### To do list
 
 ---
-
 [ ] Example1 
-[x] Example2
+[ ] Example2
 [ ] Example3
-~[x] Example4~
+[ ] Example4
 
 ### Change log
 
